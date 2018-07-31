@@ -123,7 +123,7 @@ function getFrame() {
         const names = getClassNames(indices)
 
         //set the table 
-       // setTable(names, probs)
+        setTable(names, probs)
     }
 
 }
