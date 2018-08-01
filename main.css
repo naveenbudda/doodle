@@ -32,6 +32,6 @@
     cursor: pointer;
 }
 .upper-canvas, #canvas, .canvas-container {
- width:60vh !important;
+ width:90% !important;
  height:50vh !important;
 }
