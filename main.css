@@ -31,7 +31,3 @@
     background: #007AFF;
     cursor: pointer;
 }
-.upper-canvas, #canvas, .canvas-container {
- width:70% !important;
- height:60vh !important;
-}
